@@ -1,5 +1,7 @@
 RobotTask-5-2. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application. 
 
+RobotTask-5-2. Занятия по Python. Исполнитель Робот. Платформа StepInDev. Приложение с графическим интерфейсом пользователя.
+
 Robot-Pos-N1
 
 <img width="551" height="411" alt="изображение" src="https://github.com/user-attachments/assets/5f863ad5-82f3-4430-b012-3f81c29ca71a" />
